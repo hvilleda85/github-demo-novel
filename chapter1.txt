@@ -1,3 +1,7 @@
+=====================
+outline
+=====================
+
 Chapter 1 wizardry happens
 Of course we're not sure what that wizardry is,
 But it should be noted this wizardry can be dangerous.
