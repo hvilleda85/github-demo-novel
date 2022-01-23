@@ -1,6 +1,6 @@
-=====================
+=====================+
 outline
-=====================
+=====================+
 
 Chapter 1 wizardry happens
 Of course we're not sure what that wizardry is,
